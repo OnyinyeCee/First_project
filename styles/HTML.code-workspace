@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../HTML"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../htm assignment"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "htm-css-course"
+	}
+}
